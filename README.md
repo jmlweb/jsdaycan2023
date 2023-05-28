@@ -8,3 +8,11 @@
 4. Either
 5. Task
 6. TaskEither
+
+## Installation
+
+`npm install`
+
+## Running a sample
+
+`yarn start scriptname.ts`
